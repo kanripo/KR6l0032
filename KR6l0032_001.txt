@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:51.245096
+#+DATE: 2015-08-30 20:52:00.598550
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0032_T_001-0777a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1563¶
-
- 《阿毘達磨藏顯宗論》卷第一¶
+No. 1563¶
+《阿毘達磨藏顯宗論》卷第一¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-1序品
-:PROPERTIES:
-:head: 序品第一
-:END:
-¶
+序品第一¶
 
 #+BEGIN_VERSE
 「　諸有遍於一切法
@@ -213,11 +208,7 @@ No.1563¶
 議希有功德高廣名稱。非理毀謗獲罪無邊。¶
 諸有智人皆應信佛。具一切智故先敬禮。¶
 
-2辯本事品
-:PROPERTIES:
-:head: 辯本事品第二之一
-:END:
-¶
+辯本事品第二之一¶
 
 #+BEGIN_VERSE
 「　諸一切種諸冥滅

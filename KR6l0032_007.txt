@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:51.432087
+#+DATE: 2015-08-30 20:52:00.764982
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0032_T_007-0804c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第七¶
+《阿毘達磨藏顯宗論》卷第七¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
@@ -429,7 +428,7 @@
 同類異類緣力故。起思因果。中當廣顯。示前¶
 生同類異類緣。中同類緣強隨彼起故。俱生¶
 緣內無同類緣。異類緣中有偏勝者。如緣眼¶
-色眼識生中。說眼為因。色為緣性。雖隨𨵗¶
+色眼識生中。說眼為因。色為緣性。雖隨[門@卦]¶
 一眼識不生而眼識生。隨眼非色。是近緣性¶
 故說為因。眼識俱生一果諸法。為緣助識¶
 力勝非眼。又於俱起一果法中。自有相生力¶

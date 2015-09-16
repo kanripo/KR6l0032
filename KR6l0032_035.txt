@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:52.276754
+#+DATE: 2015-08-30 20:52:01.616080
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0032_T_035-0946c> 
 #+PROPERTY: JUAN 35
 ¶
-
- 《阿毘達磨藏顯宗論》卷第三十五¶
+《阿毘達磨藏顯宗論》卷第三十五¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-8辯智品
-:PROPERTIES:
-:head: 辯智品第八之一
-:END:
-¶
+辯智品第八之一¶
 
 如是已依諸道差別。建立賢聖補特伽羅。所¶
 依道中作如是說。正見正智名無學支。故於¶

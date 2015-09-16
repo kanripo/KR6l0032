@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:52.388931
+#+DATE: 2015-08-30 20:52:01.704478
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0032_T_038-0963c> ¶¶¶¶¶
 #+PROPERTY: JUAN 38
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第三十八¶
+《阿毘達磨藏顯宗論》卷第三十八¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-9辯定品
-:PROPERTIES:
-:head: 辯定品第九之一
-:END:
-¶
+辯定品第九之一¶
 
 如是已辯諸智差別。次當分別智所依定。唯¶
 諸靜慮能具為依。故於此中先辯靜慮。或¶
@@ -73,7 +68,7 @@
 緣。簡無色如理思惟。簡異顛倒能持。此定是¶
 妙等持。此妙等持名為靜慮。此言顯示止觀¶
 均行。無倒等持方名靜慮。若爾染污寧得此¶
-名。由彼亦能邪審慮故。於相似處亦立此名。¶
+名。由彼亦能邪審慮故。於相似處赤立此名。¶
 如世間言朽敗種等。故無一切名靜慮失。若¶
 善性攝心一境性。并伴立為四靜慮者。依何¶
 相立。初二三四具伺喜樂。建立為初。謂若位¶
