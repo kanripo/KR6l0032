@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿毘達磨藏顯宗論
+#+DATE: 2015-08-30 20:51:53.090085
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6l0032
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+衆
