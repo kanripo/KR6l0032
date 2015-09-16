@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:51.916584
+#+DATE: 2015-08-30 20:52:06.682291
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0032_T_024-0888a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第二十四¶
+《阿毘達磨藏顯宗論》卷第二十四¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
@@ -37,7 +36,7 @@
 趣內常生貴家。謂婆羅門。或剎帝利。巨富¶
 長者。大婆羅門家。於貴家中根有具缺。然彼¶
 菩薩恒具勝根。恒受男身尚不為女。何況有¶
-受扇𢮎等身。生生常能憶念宿命所作善事。¶
+受扇[打-丁+虎]等身。生生常能憶念宿命所作善事。¶
 常無退屈。謂於利樂一切有情。一切時中。¶
 一切方便。心無厭倦名無退屈。由無退屈故¶
 說為堅。豈不未修妙相業位。菩提心不退。應¶

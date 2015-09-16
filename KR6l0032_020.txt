@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:51.795674
+#+DATE: 2015-08-30 20:52:06.571798
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0032_T_020-0869a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第二十¶
+《阿毘達磨藏顯宗論》卷第二十¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
@@ -100,7 +99,7 @@
 者。為歸何等。頌曰。¶
 
 #+BEGIN_VERSE
-「　歸依成佛僧
+「　歸依成佛增
 　無學二種法¶
 　及涅槃擇滅
 　是說具三歸
@@ -265,7 +264,7 @@
 
 #+BEGIN_VERSE
 「　遮中唯離酒
-　為護餘律儀
+　為獲餘律儀
 #+END_VERSE
 」¶
 
@@ -337,7 +336,7 @@
 非一切因。謂以下心或中或上受苾芻戒。或¶
 有一類住律儀者。於一切有情得律儀。由一¶
 切支及一切因。謂以三心受近事勤策苾芻¶
-戒。或有一類住律儀者。於一切有情得律儀。¶
+戒。或有一類住律義者。於一切有情得律儀。¶
 由一切因。非一切支。謂以三心受近事近¶
 住勤策戒。無有不遍於諸有情。得律儀者已¶
 說因故。非於一分諸有情所誓受律儀惡心

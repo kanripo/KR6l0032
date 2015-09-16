@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:51.563897
+#+DATE: 2015-08-30 20:52:06.353476
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0032_T_012-0829a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第十二¶
+《阿毘達磨藏顯宗論》卷第十二¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-4辯緣起品
-:PROPERTIES:
-:head: 辯緣起品第四之一
-:END:
-¶
+辯緣起品第四之一¶
 
 已依三界辯得心等諸法差別今應思擇三¶
 界是何處別有幾頌曰。¶
@@ -479,7 +474,7 @@
 唯業合生。不說卵等體生由業。但說一切皆¶
 業合生。業合生時有緣卵等。從緣摽別名卵¶
 等生。若說業生名應非別。言卵生者。謂諸有¶
-情生從卵㲉。如鵞鴈等。言胎生者。謂諸有情¶
+情生從卵[穀-禾+卵]。如鵞鴈等。言胎生者。謂諸有情¶
 生從胎藏。如象馬等。言濕生者。謂諸有情從¶
 皮肉骨牛糞油滓水等和合煖潤氣生。如虫¶
 飛蛾蚊蚰蜒等。言化生者。謂諸有情不待三¶

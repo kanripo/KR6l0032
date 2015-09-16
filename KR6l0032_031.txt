@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:52.151111
+#+DATE: 2015-08-30 20:52:06.897401
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0032_T_031-0925b> 
 #+PROPERTY: JUAN 31
 ¶
-
- 《阿毘達磨藏顯宗論》卷第三十一¶
+《阿毘達磨藏顯宗論》卷第三十一¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
@@ -167,8 +166,7 @@
 <pb:KR6l0032_T_031-0926c>¶
 若於人趣得預流果。人中滿七。天准應知。¶
 非聖亦有極七返生。相續成熟得涅槃義。然¶
-非決定。是故不說。已辯修惑都未斷者名預¶
-流果極七返生。今次應辯斷位眾聖。且應建¶
+非決定。是故不說。已辯修惑都未斷者名預流果極七返生。今次應辯斷位眾聖。且應建¶
 立一來向果。頌曰。¶
 
 #+BEGIN_VERSE

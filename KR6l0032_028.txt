@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:52.050689
+#+DATE: 2015-08-30 20:52:06.812158
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0032_T_028-0908c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 28
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第二十八¶
+《阿毘達磨藏顯宗論》卷第二十八¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
@@ -85,7 +84,7 @@
 對治謂慈善根。疑蓋食謂三世。如契經說。¶
 於過去世生如是疑。乃至廣說。此蓋對治。¶
 謂若有能如實觀察緣性緣起惛眠蓋食謂五¶
-種法。一𧄼瞢。二不悅。三頻申。四食不平性。¶
+種法。一[夢-夕+登]瞢。二不悅。三頻申。四食不平性。¶
 五心昧劣性。此蓋對治謂光明想。此蓋事用。¶
 謂俱能令心性沈昧。掉悔蓋食謂四種法。一¶
 親里尋。二國土尋。三不死尋。四隨念。昔種¶
