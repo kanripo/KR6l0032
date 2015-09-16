@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:51.979717
+#+DATE: 2015-08-30 20:52:10.590187
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0032_T_026-0898c> 
 #+PROPERTY: JUAN 26
 ¶
-
- 《阿毘達磨藏顯宗論》卷第二十六¶
+《阿毘達磨藏顯宗論》卷第二十六¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
@@ -495,7 +494,7 @@
 集斷遍隨眠隨增。翻此應知。見集斷識修所¶
 斷識。欲修所斷及諸遍行隨眠隨增。見道斷¶
 識欲見道斷。及諸遍行隨眠隨增。然無漏緣¶
-唯相應縛。所餘但作所緣隨增。准此應知。色¶
+唯相應縳。所餘但作所緣隨增。准此應知。色¶
 無色界有差別者。見道斷識欲界上界。如次¶
 應知緣法類品緣眼根識。餘所繫事例眼應¶
 思。今於此中復應思擇。若心由彼名有隨眠。¶

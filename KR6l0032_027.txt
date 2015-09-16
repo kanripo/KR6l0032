@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:52.014678
+#+DATE: 2015-08-30 20:52:10.618161
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0032_T_027-0903c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第二十七¶
+《阿毘達磨藏顯宗論》卷第二十七¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
@@ -65,8 +64,7 @@
 便起。此則說隨眠由境界力起。緣彼非理作¶
 意起者。謂有如木境界現前及有如鑽燧非¶
 理作意起。鑽境界木欲貪火生。此中何名非¶
-理作意。謂於上妙衣服花鬘嚴具塗香彫粧¶
-采飾嬌姿所顯女想。糞聚起有情想所住持¶
+理作意。謂於上妙衣服花鬘嚴具塗香彫粧采飾嬌姿所顯女想。糞聚起有情想所住持¶
 心俱顛倒警覺。名非理作意。此則說隨眠由¶
 加行力起。若隨眠起具三因緣。云何許有阿
 <pb:KR6l0032_T_027-0904b>¶

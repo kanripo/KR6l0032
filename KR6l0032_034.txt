@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:52.244570
+#+DATE: 2015-08-30 20:52:10.829605
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0032_T_034-0940c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第三十四¶
+《阿毘達磨藏顯宗論》卷第三十四¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
@@ -211,7 +210,7 @@
 於臣。所以心王不立覺分。有餘師說。心導¶
 世間於界趣生輪迴無絕。修習覺分為斷生¶
 死。由此心王不立覺分。有餘師說。無始時¶
-來心為眾多煩惱雜染。馳散諸境𢤱戾難調。¶
+來心為眾多煩惱雜染。馳散諸境[怡-台+龍]戾難調。¶
 為調伏心修習覺分。非所調伏即是能調。是¶
 故心王不立覺分。何緣諸大心所法中。唯立¶
 四法為菩提分。實總攝在念住等中。彼實攝¶
