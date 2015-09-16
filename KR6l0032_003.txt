@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:51.307804
+#+DATE: 2015-08-30 20:52:08.054436
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0032_T_003-0785c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第三¶
+《阿毘達磨藏顯宗論》卷第三¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶

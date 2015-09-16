@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:51.949789
+#+DATE: 2015-08-30 20:52:08.708306
 #+TITLE: 阿毘達磨藏顯宗論
 #+PROPERTY: CBETA_ID T29n1563
 #+PROPERTY: ID KR6l0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1563
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0032_T_025-0892c> ¶¶¶¶¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 《阿毘達磨藏顯宗論》卷第二十五¶
+《阿毘達磨藏顯宗論》卷第二十五¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-6辯隨眠品
-:PROPERTIES:
-:head: 辯隨眠品第六之一
-:END:
-¶
+辯隨眠品第六之一¶
 
 已辯諸業。契經處處說業感有。然見世間已¶
 離染者。雖造善業。而無功能招後有果。故於¶
@@ -297,7 +292,7 @@
 種。不爾建立倒相異故。何謂倒相。謂具三因。¶
 何謂三因。一向倒故。推度性故。妄增益故。增¶
 聲亦顯。體增勝故。非餘煩惱。具此三因。謂戒¶
-禁取非一向倒。所計容離欲染等故少分暫¶
+取禁非一向倒。所計容離欲染等故少分暫¶
 時得清淨故。斷見邪見非妄增益。於壞事門¶
 此二轉故。餘部見取非增勝故。所餘煩惱非¶
 推度故。由此顛倒唯四非餘。豈不經中說諸¶
